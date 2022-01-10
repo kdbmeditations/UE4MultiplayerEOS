@@ -61,6 +61,10 @@
 				"Win64",
 				"Linux"
 			]
+		},
+		{
+			"Name": "OnlineSubsystemEOS",
+			"Enabled": true
 		}
 	]
 }
